@@ -1,0 +1,18 @@
+{
+    "name": "pbmedia/networking4all-php-client",
+    "description": "PHP Client for the Networking4all API",
+    "authors": [
+        {
+            "name": "Pascal Baljet",
+            "email": "pascal@pascalbaljet.nl"
+        }
+    ],
+    "require": {
+        "ext-soap": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pbmedia\\Networking4all": "src/"
+        }
+    },"
+}
